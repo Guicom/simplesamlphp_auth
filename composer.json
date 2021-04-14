@@ -6,7 +6,7 @@
     "homepage": "https://www.drupal.org/project/simplesamlphp_auth",
     "repositories" : [
         {
-            "url" : "https://github.com/Guicom/simplesamlphp_auth",
+            "url" : "https://github.com/Guicom/simplesamlphp",
             "type" : "git"
         }
     ],

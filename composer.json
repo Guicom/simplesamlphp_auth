@@ -12,7 +12,7 @@
     ],
     "require": {
         "drupal/externalauth": "^1.1",
-        "simplesamlphp/simplesamlphp_php8": "^8.1.0",
+        "simplesamlphp/simplesamlphp_php8": "^8.1.1",
         "drupal/core": "^8.7|^9.0"
     }
 }
